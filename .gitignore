@@ -1,0 +1,39 @@
+#
+# Ignoring these folders from commiting.
+#
+
+src/main/resources/bootstrap.properties
+**/logs/
+**/target/
+**/test-output/
+**/bin
+service_logs/
+**/.classpath
+**/.project
+**/.settings
+
+**/.mvn
+
+### STS ###
+**/.apt_generated
+**/.classpath
+**/.factorypath
+**/.project
+**/.settings
+**/.springBeans
+
+### IntelliJ IDEA ###
+**/.idea
+**/*.iws
+**/*.iml
+**/*.ipr
+
+### NetBeans ###
+**/nbproject/private/
+**/build/
+**/nbbuild/
+**/dist/
+**/nbdist/
+**/.nb-gradle/
+
+
